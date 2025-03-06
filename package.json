@@ -1,0 +1,17 @@
+{
+  "name": "imagesearchengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "weaviate-client": "^3.4.0",
+    "weaviate-ts-client": "^2.2.0"
+  }
+}
